@@ -36,7 +36,6 @@ There's currently a home page, but nothing happens when I click the `Look at som
 2. The ProjectList component lists of all of the *Project* objects available for viewing.  It should also have a way of selecting a *Project* to be viewed in the ProjectView component.
 3. The ProjectView component displays all of the information for a *Project*.  In addition to the individual data values, totals of the data values should be calculated and displayed (details on how to calculate totals are described below).  It should also provide a way of going back to the ProjectList component.
 
-
 ### How to Run
 
 ```
@@ -97,3 +96,7 @@ Projects with a project-type C have data objects with a `value` key, a `rate` ke
     group: string;
 }
 ```
+
+## Additional Notes
+
+Please do not spend a lot of time formatting the HTML to look pretty!  A very simple display of the information will suffice.
