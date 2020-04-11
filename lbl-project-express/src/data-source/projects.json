@@ -1,0 +1,41 @@
+{
+    "projects": [
+        {
+            "id": "c0dcd264-0a95-4495-8648-e24465fcfc07",
+            "name": "project-1",
+            "project-type": "A",
+            "data": [
+                {"value": 123},
+                {"value": 234},
+                {"value": 345},
+                {"value": 456}
+            ]
+        },
+        {
+            "id": "a06f0502-14cd-4cdb-8c39-3a7a3abda5fc",
+            "name": "project-2",
+            "project-type": "B",
+            "data": [
+                {"value": 567, "rate": 0.96},
+                {"value": 678, "rate": 0.92},
+                {"value": 789, "rate": 0.99},
+                {"value": 8910, "rate": 0.99},
+                {"value": 91011, "rate": 0.96},
+                {"value": 101112, "rate": 0.82},
+                {"value": 111213, "rate": 0.78}
+            ]
+        },
+        {
+            "id": "957ef5e7-d9df-45fc-a424-dbcae507cef9",
+            "name": "project-3",
+            "project-type": "C",
+            "data": [
+                {"value": 321, "rate": 0.89, "group": "A"},
+                {"value": 432, "rate": 0.68, "group": "A"},
+                {"value": 432, "rate": 0.56, "group": "C"},
+                {"value": 5432, "rate": 0.73, "group": "B"},
+                {"value": 65432, "rate": 0.86, "group": "B"}
+            ]
+        }
+    ]
+}
