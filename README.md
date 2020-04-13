@@ -103,5 +103,6 @@ To summarize, your tasks are as follows:
 
 1. Fix the backend API to serve the Project data in the `projects.json` file.
 2. Modify the Angular 9 project to display the Project data.
+3. Zip and email modified repository to `mspears@lbl.gov`
 
 Note: please do not spend a lot of time formatting the HTML to look pretty!  A very simple display of the information will suffice.
