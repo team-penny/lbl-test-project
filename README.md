@@ -3,6 +3,8 @@
 
 The *LBL-Test-Project* is a state of the art web application, thought up by the brightest minds at the Lawrence Berkeley National Laboratory.  The sole REST API endpoint, served from a Node.js Express server, returns an array of given *Project* objects.  The Angular 9 web app retrieves/displays the list of Projects, and then provides the user with the opportunity to *view* the data... genius!
 
+Unfortunately the application needs additional work to get up and running, so we've yet to see any royalties from our brilliant idea.  Your job is to get the site functioning as described below.
+
 ## Running Environment
 
 * Node.js 12.6
